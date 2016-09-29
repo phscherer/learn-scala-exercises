@@ -1,3 +1,6 @@
+impackage scala.learn
+
+port scala.learn.Complex
 
 
 object ComplexNumbers {

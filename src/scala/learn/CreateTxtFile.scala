@@ -1,3 +1,5 @@
+package scala.learn
+
 import java.io.File
 import java.util.Calendar
 import java.io.BufferedWriter

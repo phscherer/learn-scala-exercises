@@ -1,4 +1,6 @@
 
+package scala.learn
+
 import java.util.{Date, Locale}
 import java.text.DateFormat._
 import java.text.SimpleDateFormat

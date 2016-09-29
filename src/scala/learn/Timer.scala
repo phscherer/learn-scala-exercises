@@ -1,5 +1,7 @@
 
 
+package scala.learn
+
 object Timer {
   def umPorSegundo(callback: () => Unit) {
       while (true) { 
