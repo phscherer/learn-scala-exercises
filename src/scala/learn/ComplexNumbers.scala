@@ -1,6 +1,4 @@
-impackage scala.learn
-
-port scala.learn.Complex
+import scala.learn.Complex
 
 
 object ComplexNumbers {
