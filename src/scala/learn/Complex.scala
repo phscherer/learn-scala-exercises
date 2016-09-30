@@ -1,7 +1,3 @@
-
-
-package scala.learn
-
 class Complex(real: Double, imaginario: Double) {
   def re = real
   def im = imaginario
