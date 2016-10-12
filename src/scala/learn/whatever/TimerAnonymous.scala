@@ -1,6 +1,6 @@
 
 
-package scala.learn
+package scala.learn.whatever
 
 object TimerAnonymous {
   def umPorSegundo(callback: () => Unit) {

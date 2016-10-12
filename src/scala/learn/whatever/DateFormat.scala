@@ -1,5 +1,5 @@
 
-package scala.learn
+package scala.learn.whatever
 
 import java.util.{Date, Locale}
 import java.text.DateFormat._
